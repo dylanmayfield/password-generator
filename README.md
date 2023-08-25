@@ -2,7 +2,7 @@
 
 ## Description
 
-When I click the button to generate a password. you are prompted to select a series of parameters. When prompts are selected a random password is generated to meet the specifications the user has selected.
+When the button is clicked to generate a new password. You are prompted to select a series of parameters. When prompts are selected a random password is generated to meet the specifications the user has selected.
 
 ## Screenshot of Application
 
